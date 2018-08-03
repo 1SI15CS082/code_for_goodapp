@@ -1,0 +1,4 @@
+#Mon Jul 09 12:13:39 IST 2018
+base.0=/home/puru/Downloads/team-15-master/code_for_goodapp/app/build/intermediates/transforms/dexMerger/debug/4
+path.0=classes.dex
+renamed.0=classes.dex

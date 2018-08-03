@@ -1,0 +1,38 @@
+{
+    "logs": [
+        {
+            "outputFile": "/home/puru/Downloads/team-15-master/code_for_goodapp/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v16/values-v16.xml",
+            "map": [
+                {
+                    "source": "/home/puru/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.0.aar/48a4edaacfb5d8bc47c3b7a43adaa8d8/res/values-v16/values-v16.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "5",
+                        "endColumns": "12",
+                        "endOffsets": "223"
+                    },
+                    "to": {
+                        "startLines": "3",
+                        "startColumns": "4",
+                        "startOffsets": "121",
+                        "endLines": "6",
+                        "endColumns": "12",
+                        "endOffsets": "289"
+                    }
+                },
+                {
+                    "source": "/home/puru/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.0.aar/2312f50ccac69f72d4310c2feff2bbe4/res/values-v16/values-v16.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "65",
+                        "endOffsets": "116"
+                    }
+                }
+            ]
+        }
+    ]
+}

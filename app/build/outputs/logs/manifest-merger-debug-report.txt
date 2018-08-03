@@ -1,0 +1,144 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/puru/Downloads/team-15-master/code_for_goodapp/app/src/main/AndroidManifest.xml:2:1-31:12
+INJECTED from /home/puru/Downloads/team-15-master/code_for_goodapp/app/src/main/AndroidManifest.xml:2:1-31:12
+INJECTED from /home/puru/Downloads/team-15-master/code_for_goodapp/app/src/main/AndroidManifest.xml:2:1-31:12
+INJECTED from /home/puru/Downloads/team-15-master/code_for_goodapp/app/src/main/AndroidManifest.xml:2:1-31:12
+MERGED from [com.android.support:appcompat-v7:27.1.0] /home/puru/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.0.aar/48a4edaacfb5d8bc47c3b7a43adaa8d8/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:27.1.0] /home/puru/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.0.aar/8a89ae77be7c6c846a62c67d8e6f8396/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:27.1.0] /home/puru/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.0.aar/87aeb29af75502d623c18ae28eb1d72a/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.1.0] /home/puru/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.0.aar/72f5faefbdb612b8ee2d45b3cad8d4e8/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.1.0] /home/puru/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.0.aar/90848ee0aa2cbc1d47ae70a1d183009f/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:27.1.0] /home/puru/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.0.aar/b0ed64eab084b4c0c15ed3144d034f90/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.1.0] /home/puru/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.0.aar/2312f50ccac69f72d4310c2feff2bbe4/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.volley:volley:1.0.0] /home/puru/.gradle/caches/transforms-1/files-1.1/volley-1.0.0.aar/c52bcc840bb9c5b0ba926ecb09e93dea/AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] /home/puru/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.2.aar/cc76f25cb4bb6c306fa9abf99f01c0a0/AndroidManifest.xml:2:1-11:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /home/puru/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/a430763a90f7b05e58dfb1e936567212/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /home/puru/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/7414062ff9383e410e60a491719c3649/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /home/puru/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/298f10b95eb30aaba42baac39d9ef052/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.0] /home/puru/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/e35bd13e7e703f8e1226ac5486890a10/AndroidManifest.xml:17:1-22:12
+INJECTED from /home/puru/Downloads/team-15-master/code_for_goodapp/app/src/main/AndroidManifest.xml:2:1-31:12
+INJECTED from /home/puru/Downloads/team-15-master/code_for_goodapp/app/src/main/AndroidManifest.xml:2:1-31:12
+INJECTED from /home/puru/Downloads/team-15-master/code_for_goodapp/app/src/main/AndroidManifest.xml:2:1-31:12
+	package
+		ADDED from /home/puru/Downloads/team-15-master/code_for_goodapp/app/src/main/AndroidManifest.xml:3:5-53
+		INJECTED from /home/puru/Downloads/team-15-master/code_for_goodapp/app/src/main/AndroidManifest.xml
+		INJECTED from /home/puru/Downloads/team-15-master/code_for_goodapp/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /home/puru/Downloads/team-15-master/code_for_goodapp/app/src/main/AndroidManifest.xml
+		ADDED from /home/puru/Downloads/team-15-master/code_for_goodapp/app/src/main/AndroidManifest.xml:2:1-31:12
+		INJECTED from /home/puru/Downloads/team-15-master/code_for_goodapp/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /home/puru/Downloads/team-15-master/code_for_goodapp/app/src/main/AndroidManifest.xml
+		ADDED from /home/puru/Downloads/team-15-master/code_for_goodapp/app/src/main/AndroidManifest.xml:2:1-31:12
+		INJECTED from /home/puru/Downloads/team-15-master/code_for_goodapp/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/puru/Downloads/team-15-master/code_for_goodapp/app/src/main/AndroidManifest.xml:2:11-69
+uses-permission#android.permission.INTERNET
+ADDED from /home/puru/Downloads/team-15-master/code_for_goodapp/app/src/main/AndroidManifest.xml:5:5-67
+	android:name
+		ADDED from /home/puru/Downloads/team-15-master/code_for_goodapp/app/src/main/AndroidManifest.xml:5:22-64
+uses-permission#android.permission.SEND_SMS
+ADDED from /home/puru/Downloads/team-15-master/code_for_goodapp/app/src/main/AndroidManifest.xml:6:5-67
+	android:name
+		ADDED from /home/puru/Downloads/team-15-master/code_for_goodapp/app/src/main/AndroidManifest.xml:6:22-64
+application
+ADDED from /home/puru/Downloads/team-15-master/code_for_goodapp/app/src/main/AndroidManifest.xml:8:5-29:19
+MERGED from [com.android.volley:volley:1.0.0] /home/puru/.gradle/caches/transforms-1/files-1.1/volley-1.0.0.aar/c52bcc840bb9c5b0ba926ecb09e93dea/AndroidManifest.xml:9:5-20
+MERGED from [com.android.volley:volley:1.0.0] /home/puru/.gradle/caches/transforms-1/files-1.1/volley-1.0.0.aar/c52bcc840bb9c5b0ba926ecb09e93dea/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] /home/puru/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.2.aar/cc76f25cb4bb6c306fa9abf99f01c0a0/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] /home/puru/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.2.aar/cc76f25cb4bb6c306fa9abf99f01c0a0/AndroidManifest.xml:9:5-20
+	android:supportsRtl
+		ADDED from /home/puru/Downloads/team-15-master/code_for_goodapp/app/src/main/AndroidManifest.xml:13:9-35
+	android:label
+		ADDED from /home/puru/Downloads/team-15-master/code_for_goodapp/app/src/main/AndroidManifest.xml:11:9-41
+	android:roundIcon
+		ADDED from /home/puru/Downloads/team-15-master/code_for_goodapp/app/src/main/AndroidManifest.xml:12:9-61
+	android:icon
+		ADDED from /home/puru/Downloads/team-15-master/code_for_goodapp/app/src/main/AndroidManifest.xml:10:9-42
+	android:allowBackup
+		ADDED from /home/puru/Downloads/team-15-master/code_for_goodapp/app/src/main/AndroidManifest.xml:9:9-35
+	android:theme
+		ADDED from /home/puru/Downloads/team-15-master/code_for_goodapp/app/src/main/AndroidManifest.xml:14:9-40
+activity#com.example.shubhamkumar.code_for_good.splash_screen
+ADDED from /home/puru/Downloads/team-15-master/code_for_goodapp/app/src/main/AndroidManifest.xml:15:9-21:20
+	android:name
+		ADDED from /home/puru/Downloads/team-15-master/code_for_goodapp/app/src/main/AndroidManifest.xml:15:19-48
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /home/puru/Downloads/team-15-master/code_for_goodapp/app/src/main/AndroidManifest.xml:16:13-20:29
+action#android.intent.action.MAIN
+ADDED from /home/puru/Downloads/team-15-master/code_for_goodapp/app/src/main/AndroidManifest.xml:17:17-69
+	android:name
+		ADDED from /home/puru/Downloads/team-15-master/code_for_goodapp/app/src/main/AndroidManifest.xml:17:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /home/puru/Downloads/team-15-master/code_for_goodapp/app/src/main/AndroidManifest.xml:19:17-77
+	android:name
+		ADDED from /home/puru/Downloads/team-15-master/code_for_goodapp/app/src/main/AndroidManifest.xml:19:27-74
+activity#com.example.shubhamkumar.code_for_good.MainActivity
+ADDED from /home/puru/Downloads/team-15-master/code_for_goodapp/app/src/main/AndroidManifest.xml:22:9-50
+	android:name
+		ADDED from /home/puru/Downloads/team-15-master/code_for_goodapp/app/src/main/AndroidManifest.xml:22:19-47
+activity#com.example.shubhamkumar.code_for_good.farmer_login
+ADDED from /home/puru/Downloads/team-15-master/code_for_goodapp/app/src/main/AndroidManifest.xml:23:9-50
+	android:name
+		ADDED from /home/puru/Downloads/team-15-master/code_for_goodapp/app/src/main/AndroidManifest.xml:23:19-47
+activity#com.example.shubhamkumar.code_for_good.center_head_login
+ADDED from /home/puru/Downloads/team-15-master/code_for_goodapp/app/src/main/AndroidManifest.xml:24:9-55
+	android:name
+		ADDED from /home/puru/Downloads/team-15-master/code_for_goodapp/app/src/main/AndroidManifest.xml:24:19-52
+activity#com.example.shubhamkumar.code_for_good.farmer_select
+ADDED from /home/puru/Downloads/team-15-master/code_for_goodapp/app/src/main/AndroidManifest.xml:25:9-51
+	android:name
+		ADDED from /home/puru/Downloads/team-15-master/code_for_goodapp/app/src/main/AndroidManifest.xml:25:19-48
+activity#com.example.shubhamkumar.code_for_good.showdetails
+ADDED from /home/puru/Downloads/team-15-master/code_for_goodapp/app/src/main/AndroidManifest.xml:26:9-49
+	android:name
+		ADDED from /home/puru/Downloads/team-15-master/code_for_goodapp/app/src/main/AndroidManifest.xml:26:19-46
+activity#com.example.shubhamkumar.code_for_good.time_picker
+ADDED from /home/puru/Downloads/team-15-master/code_for_goodapp/app/src/main/AndroidManifest.xml:27:9-49
+	android:name
+		ADDED from /home/puru/Downloads/team-15-master/code_for_goodapp/app/src/main/AndroidManifest.xml:27:19-46
+activity#com.example.shubhamkumar.code_for_good.ConfirmationPage
+ADDED from /home/puru/Downloads/team-15-master/code_for_goodapp/app/src/main/AndroidManifest.xml:28:9-63
+	android:name
+		ADDED from /home/puru/Downloads/team-15-master/code_for_goodapp/app/src/main/AndroidManifest.xml:28:19-51
+uses-sdk
+INJECTED from /home/puru/Downloads/team-15-master/code_for_goodapp/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /home/puru/Downloads/team-15-master/code_for_goodapp/app/src/main/AndroidManifest.xml
+INJECTED from /home/puru/Downloads/team-15-master/code_for_goodapp/app/src/main/AndroidManifest.xml
+MERGED from [com.android.support:appcompat-v7:27.1.0] /home/puru/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.0.aar/48a4edaacfb5d8bc47c3b7a43adaa8d8/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.0] /home/puru/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.0.aar/48a4edaacfb5d8bc47c3b7a43adaa8d8/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.0] /home/puru/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.0.aar/8a89ae77be7c6c846a62c67d8e6f8396/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.0] /home/puru/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.0.aar/8a89ae77be7c6c846a62c67d8e6f8396/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.0] /home/puru/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.0.aar/87aeb29af75502d623c18ae28eb1d72a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.0] /home/puru/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.0.aar/87aeb29af75502d623c18ae28eb1d72a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.0] /home/puru/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.0.aar/72f5faefbdb612b8ee2d45b3cad8d4e8/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.0] /home/puru/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.0.aar/72f5faefbdb612b8ee2d45b3cad8d4e8/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.0] /home/puru/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.0.aar/90848ee0aa2cbc1d47ae70a1d183009f/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.0] /home/puru/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.0.aar/90848ee0aa2cbc1d47ae70a1d183009f/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.0] /home/puru/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.0.aar/b0ed64eab084b4c0c15ed3144d034f90/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.0] /home/puru/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.0.aar/b0ed64eab084b4c0c15ed3144d034f90/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.0] /home/puru/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.0.aar/2312f50ccac69f72d4310c2feff2bbe4/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.0] /home/puru/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.0.aar/2312f50ccac69f72d4310c2feff2bbe4/AndroidManifest.xml:20:5-44
+MERGED from [com.android.volley:volley:1.0.0] /home/puru/.gradle/caches/transforms-1/files-1.1/volley-1.0.0.aar/c52bcc840bb9c5b0ba926ecb09e93dea/AndroidManifest.xml:7:5-43
+MERGED from [com.android.volley:volley:1.0.0] /home/puru/.gradle/caches/transforms-1/files-1.1/volley-1.0.0.aar/c52bcc840bb9c5b0ba926ecb09e93dea/AndroidManifest.xml:7:5-43
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] /home/puru/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.2.aar/cc76f25cb4bb6c306fa9abf99f01c0a0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] /home/puru/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.2.aar/cc76f25cb4bb6c306fa9abf99f01c0a0/AndroidManifest.xml:5:5-7:41
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /home/puru/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/a430763a90f7b05e58dfb1e936567212/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /home/puru/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/a430763a90f7b05e58dfb1e936567212/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /home/puru/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/7414062ff9383e410e60a491719c3649/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /home/puru/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/7414062ff9383e410e60a491719c3649/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /home/puru/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/298f10b95eb30aaba42baac39d9ef052/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /home/puru/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/298f10b95eb30aaba42baac39d9ef052/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] /home/puru/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/e35bd13e7e703f8e1226ac5486890a10/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] /home/puru/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/e35bd13e7e703f8e1226ac5486890a10/AndroidManifest.xml:20:5-44
+INJECTED from /home/puru/Downloads/team-15-master/code_for_goodapp/app/src/main/AndroidManifest.xml
+INJECTED from /home/puru/Downloads/team-15-master/code_for_goodapp/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /home/puru/Downloads/team-15-master/code_for_goodapp/app/src/main/AndroidManifest.xml
+		ADDED from /home/puru/Downloads/team-15-master/code_for_goodapp/app/src/main/AndroidManifest.xml
+		INJECTED from /home/puru/Downloads/team-15-master/code_for_goodapp/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /home/puru/Downloads/team-15-master/code_for_goodapp/app/src/main/AndroidManifest.xml
+		ADDED from /home/puru/Downloads/team-15-master/code_for_goodapp/app/src/main/AndroidManifest.xml
+		INJECTED from /home/puru/Downloads/team-15-master/code_for_goodapp/app/src/main/AndroidManifest.xml
